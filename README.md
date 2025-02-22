@@ -1,4 +1,4 @@
- QR Code Attendance System
+## QR Code Attendance System
 
 📌 A simple and efficient attendance system using QR codes.
 
